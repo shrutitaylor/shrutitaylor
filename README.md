@@ -3,18 +3,13 @@ I'm a **Full Stack Developer** with 3+ years of experience building scalable, us
 
 ### 🛠️ Skills & Technologies  
 **Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
 
 **Backend:**  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 
 **Tools:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
 ### 🚀 Featured Projects  
 #### 1. Migration Assistant Tool  
